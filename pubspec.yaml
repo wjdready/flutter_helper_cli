@@ -1,6 +1,6 @@
 name: flutter_helper_cli
 description: A Flutter CLI tool for Flutter projects.
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/wjdready/flutter_helper_cli
 
 # dart pub global activate --source path .
