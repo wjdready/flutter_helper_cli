@@ -14,7 +14,7 @@ flutter_clean can recursively clear all projects in the current directory
 ## How to use
 
 ```sh
-dart pub global activate flutter_cli_tool
+dart pub global activate flutter_helper_cli
 
 # then you can run
 flutter_example
